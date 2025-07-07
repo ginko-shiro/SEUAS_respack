@@ -65,7 +65,7 @@
   "disc.gbc_op": {
     "sounds": [
       {
-        "name": "sth_fun:bad_apple",
+        "name": "sth_fun:gbc_op",
         "stream": true
       }
     ],
