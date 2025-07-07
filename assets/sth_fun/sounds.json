@@ -1,0 +1,110 @@
+{
+  "disc.hitoshizuku": {
+    "sounds": [
+      {
+        "name": "sth_fun:hitoshizuku",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：壱雫空"
+  },
+  "disc.haruhikage": {
+    "sounds": [
+      {
+        "name": "sth_fun:haruhikage",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：春日影"
+  },
+  "disc.seu_song": {
+    "sounds": [
+      {
+        "name": "sth_fun:seu_song",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：东大校歌"
+  },
+  "head.seu_song": {
+    "sounds": [
+      {
+        "name": "sth_fun:seu_song",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：东大校歌"
+  },
+  "disc.loveu_seu": {
+    "sounds": [
+      {
+        "name": "sth_fun:loveu_seu",
+        "stream": true
+      }
+    ],
+    "subtitle": "我爱你东南"
+  },
+  "disc.shiting": {
+    "sounds": [
+      {
+        "name": "sth_fun:be_civil_cn",
+        "stream": true
+      }
+    ],
+    "subtitle": "做个文明中国人"
+  },
+  "disc.bad_apple": {
+    "sounds": [
+      {
+        "name": "sth_fun:bad_apple",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：Bad Apple!!"
+  },
+  "disc.gbc_op": {
+    "sounds": [
+      {
+        "name": "sth_fun:bad_apple",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：雑踏、僕らの街"
+  },
+  "disc.lilywhite": {
+    "sounds": [
+      {
+        "name": "sth_fun:lilywhite",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：天空の花の都"
+  },
+  "disc.autumn": {
+    "sounds": [
+      {
+        "name": "sth_fun:autumn",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：秋姉妹のなく顷に"
+  },
+  "disc.36_soft": {
+    "sounds": [
+      {
+        "name": "sth_fun:hirosige36_soft",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：Terminal Station"
+  },
+  "disc.36_house": {
+    "sounds": [
+      {
+        "name": "sth_fun:hirosige36_house",
+        "stream": true
+      }
+    ],
+    "subtitle": "播放：ヒロシゲ36号"
+  }
+}

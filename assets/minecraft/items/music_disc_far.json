@@ -1,0 +1,76 @@
+{
+    "model": {
+    "type": "minecraft:select",
+    "cases": [
+        {
+            "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/music_disc_hitoshizuku"
+            },
+            "when": "sth_fun:hitoshizuku"
+        },
+        {
+            "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/music_disc_haruhikage"
+            },
+            "when": "sth_fun:haruhikage"
+        },
+        {
+            "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/music_disc_autumn"
+            },
+            "when": "sth_fun:autumn"
+        },
+        {
+            "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/music_disc_hirosige36_soft"
+            },
+            "when": "sth_fun:hirosige36_soft"
+        },
+        {
+            "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/music_disc_hirosige36_house"
+            },
+            "when": "sth_fun:hirosige36_house"
+        },
+        {
+            "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/music_disc_lilywhite"
+            },
+            "when": "sth_fun:lilywhite"
+        },
+        {
+            "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/music_disc_loveu_seu"
+            },
+            "when": "sth_fun:loveu_seu"
+        },
+        {
+            "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/music_disc_shiting"
+            },
+            "when": "sth_fun:be_civil_cn"
+        },
+        {
+            "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/music_disc_gbc_op"
+            },
+            "when": "sth_fun:gbc_op"
+        }
+    ],
+    "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/music_disc_far"
+        },
+    "component": "minecraft:jukebox_playable",
+    "property": "minecraft:component"
+    }
+}
